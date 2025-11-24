@@ -6,7 +6,7 @@
 
 ## ✨ Project Description
 
-The Flying Ball Game is an arcade-style **endless runner** developed to challenge player reflexes and timing. Built using **[INSERT LANGUAGE/ENGINE, e.g., Python and Pygame]**, the player controls a ball that must navigate through a series of randomly generated obstacles, relying on physics and momentum to survive.
+The Flying Ball Game is an arcade-style **endless runner** developed to challenge player reflexes and timing. Built using **[., Python and Pygame]**, the player controls a ball that must navigate through a series of randomly generated obstacles, relying on physics and momentum to survive.
 
 ### Why this project?
 This project serves as a foundation for a future deep reinforcement learning environment, designed to train an autonomous agent to master complex, continuous-action gameplay.
